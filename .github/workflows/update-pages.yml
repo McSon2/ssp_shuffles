@@ -59,7 +59,7 @@ jobs:
               </style>
           </head>
           <body>
-              <h1>Télécharger SSP</h1>
+              <h1>Télécharger SSP pour shuffle</h1>
               <p>Choisissez votre système d'exploitation :</p>
               <div class="download-buttons">
                   <a href="win" class="button">Windows</a>
